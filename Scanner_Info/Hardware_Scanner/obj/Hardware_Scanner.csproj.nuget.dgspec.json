@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TeslaCesar\\source\\repos\\Scanner_Info\\Hardware_Scanner\\Hardware_Scanner.csproj": {}
+    "C:\\Users\\TeslaCesar\\Documents\\GitHub\\HW_Scanner_Info\\Scanner_Info\\Hardware_Scanner\\Hardware_Scanner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TeslaCesar\\source\\repos\\Scanner_Info\\Hardware_Scanner\\Hardware_Scanner.csproj": {
+    "C:\\Users\\TeslaCesar\\Documents\\GitHub\\HW_Scanner_Info\\Scanner_Info\\Hardware_Scanner\\Hardware_Scanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TeslaCesar\\source\\repos\\Scanner_Info\\Hardware_Scanner\\Hardware_Scanner.csproj",
+        "projectUniqueName": "C:\\Users\\TeslaCesar\\Documents\\GitHub\\HW_Scanner_Info\\Scanner_Info\\Hardware_Scanner\\Hardware_Scanner.csproj",
         "projectName": "Hardware_Scanner",
-        "projectPath": "C:\\Users\\TeslaCesar\\source\\repos\\Scanner_Info\\Hardware_Scanner\\Hardware_Scanner.csproj",
+        "projectPath": "C:\\Users\\TeslaCesar\\Documents\\GitHub\\HW_Scanner_Info\\Scanner_Info\\Hardware_Scanner\\Hardware_Scanner.csproj",
         "packagesPath": "C:\\Users\\TeslaCesar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TeslaCesar\\source\\repos\\Scanner_Info\\Hardware_Scanner\\obj\\",
+        "outputPath": "C:\\Users\\TeslaCesar\\Documents\\GitHub\\HW_Scanner_Info\\Scanner_Info\\Hardware_Scanner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

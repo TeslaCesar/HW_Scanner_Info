@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jq0tticXtT0=",
+  "dgSpecHash": "LJmurZkkjWQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\TeslaCesar\\source\\repos\\Scanner_Info\\Hardware_Scanner\\Hardware_Scanner.csproj",
+  "projectFilePath": "C:\\Users\\TeslaCesar\\Documents\\GitHub\\HW_Scanner_Info\\Scanner_Info\\Hardware_Scanner\\Hardware_Scanner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TeslaCesar\\.nuget\\packages\\hardware.info\\101.0.0\\hardware.info.101.0.0.nupkg.sha512",
     "C:\\Users\\TeslaCesar\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

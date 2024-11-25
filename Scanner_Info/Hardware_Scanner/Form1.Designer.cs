@@ -153,7 +153,7 @@
             btnAbout.FlatStyle = FlatStyle.Flat;
             btnAbout.Font = new Font("Segoe UI Semibold", 11.25F, FontStyle.Bold, GraphicsUnit.Point);
             btnAbout.ForeColor = Color.Black;
-            btnAbout.Location = new Point(421, 408);
+            btnAbout.Location = new Point(522, 353);
             btnAbout.Name = "btnAbout";
             btnAbout.Size = new Size(84, 30);
             btnAbout.TabIndex = 9;
